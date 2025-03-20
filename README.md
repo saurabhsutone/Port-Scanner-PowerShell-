@@ -21,5 +21,5 @@ This PowerShell script scans a given IP or domain for open ports.
 ### 1. Download the Script  
 **Option 1: Clone the repository using Git**  
 ```powershell
-git clone https://github.com/<your-username>/PowerShell-Port-Scanner.git
+git clone https://github.com/saurabhsutone/PowerShell-Port-Scanner.git
 cd PowerShell-Port-Scanner
